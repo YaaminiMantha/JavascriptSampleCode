@@ -10,3 +10,6 @@ I have executed it in firefox.
 
 API Reference:
 https://developers.google.com/maps/documentation/javascript/
+
+API key:
+AIzaSyAg8hlcEgMPWjZtM4xWgHeDgIvmdmhQu2A
